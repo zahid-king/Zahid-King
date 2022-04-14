@@ -1,2 +1,2 @@
-import ZR
-ZR.readline___Public_Xml()
+import khushi
+khushi.readline___Public_Xml()
